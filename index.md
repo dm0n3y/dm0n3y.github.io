@@ -6,7 +6,7 @@ layout: default
 ---
 #### About
 
-I am a third-year PhD student interested in programming languages and human-computer interaction.
+I am a PhD student interested in programming languages and human-computer interaction.
 I work on [Hazel](https://hazel.org/) with [Cyrus Omar](https://web.eecs.umich.edu/~comar/) in the [FP Lab](https://github.com/fplab/fplab/wiki/The-Future-of-Programming-Lab) at the University of Michigan.
 Currently I am focused on designing an efficient and easy-to-use structure editor.
 
